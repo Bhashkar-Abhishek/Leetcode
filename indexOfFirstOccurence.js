@@ -11,10 +11,3 @@ function strStr(haystack, needle) {
     
     return -1;
   }
-
-  console.log(strStr('hello world', 'l')); // Output: 2
-console.log(strStr('hello world', 'o')); // Output: 4
-console.log(strStr('hello world', 'ld')); // Output: 9
-console.log(strStr('hello world', 'foo')); // Output: -1
-console.log(strStr('', 'foo')); // Output: -1
-console.log(strStr('hello world', '')); // Output: 0
