@@ -17,7 +17,3 @@ function longestCommonPrefix(strs) {
     
     return prefix;
   }
-
-  console.log(longestCommonPrefix(['flower', 'flow', 'flight'])); 
-console.log(longestCommonPrefix(['dog', 'racecar', 'car']));
-console.log(longestCommonPrefix(['abc', 'abcd', 'abcde']));
