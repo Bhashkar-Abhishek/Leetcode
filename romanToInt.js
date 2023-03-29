@@ -26,9 +26,3 @@ function romanToInt(s) {
   
   return result;
 }
-
-console.log(romanToInt('III')); 
-console.log(romanToInt('IV')); 
-console.log(romanToInt('IX')); 
-console.log(romanToInt('LVIII'));
-console.log(romanToInt('MCMXCIV'));
